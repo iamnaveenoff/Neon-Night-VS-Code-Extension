@@ -1,0 +1,47 @@
+{
+  "name": "neon-night",
+  "displayName": "Neon Night",
+  "description": "VSCode Theme works best for NightOwls and Neon lovers.",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamnaveenoff/Neon-Night-VS-Code-Extension"
+  },
+  "author": {
+    "email": "naveencreater106@gmail.com",
+    "name": "Naveen Kumar",
+    "url": "https://iamnaveenoff.in"
+  },
+  "license": "MIT",
+  "homepage": "https://iamnaveenoff.in/",
+  "publisher": "iamnaveenoff",
+  "bugs": {
+    "email": "naveencreater106@gmail.com",
+    "url": "https://github.com/iamnaveenoff/Neon-Night-VS-Code-Extension/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "iamnaveenoff",
+    "vscode themes",
+    "themes",
+    "dark",
+    "dark theme",
+    "Night Owls",
+    "Developer Tools"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Night-color-theme.json"
+      }
+    ]
+  }
+}
