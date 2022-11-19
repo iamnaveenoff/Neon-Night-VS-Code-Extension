@@ -2,10 +2,10 @@
   "name": "neon-night",
   "displayName": "Neon Night",
   "description": "VSCode Theme works best for NightOwls and Neon lovers.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "engines": {
-    "vscode": "1.60.0"
+    "vscode": "^1.73.0"
   },
   "repository": {
     "type": "git",
